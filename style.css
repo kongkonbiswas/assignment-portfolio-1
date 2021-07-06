@@ -1,0 +1,76 @@
+body {
+  font-family: "STIX Two Math", serif;
+}
+.forestgreen-color {
+  color: forestgreen;
+}
+.half-width {
+  width: 50%;
+  padding: 2%;
+}
+.contact-button {
+  text-decoration: none;
+  background-image: linear-gradient(skyblue, orange);
+  padding: 15px 30px;
+  border-radius: 25px;
+  color: white;
+  font-weight: 700;
+  margin-top: 40px;
+}
+.flaxible-cane {
+  display: flex;
+  margin-bottom: 100px;
+  text-align: center;
+}
+h1 {
+  font-size: 70px;
+}
+h2 {
+  font-size: 40px;
+}
+.middle-banner {
+  background-image: url(images/shapes/7.png);
+  background-repeat: no-repeat;
+}
+#margin-left {
+  margin-left: 200px;
+  text-align: center;
+}
+p {
+  margin-bottom: 100px;
+}
+#position-middle {
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+#text-gap {
+  margin-bottom: 20px;
+}
+.image-setup {
+  height: 300px;
+  width: 100%;
+}
+.box-setup {
+  width: 20%;
+  height: 500px;
+  margin-right: 2%;
+  margin-left: 2%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 1%;
+  padding-right: 0px;
+  box-shadow: 0px 0px 40px gray;
+  border-radius: 20px;
+}
+#margin-left {
+  margin-left: 5%;
+}
+#margin-right {
+  margin-right: 5%;
+}
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
